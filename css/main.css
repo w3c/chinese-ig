@@ -1,0 +1,196 @@
+body {
+  margin:0;padding:0;
+  background: white;
+  max-width: 100%;
+  font-family: Helvetica,sans-serif;
+}
+
+h1 {
+  color: black;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 500;
+  text-shadow: 1px 1px #ccc;
+}
+h2, h3, h4, h5, h6 {
+  font-weight: 300;
+}
+h2 { font-size: 1.3rem;}
+h3 { font-size: 1.1rem;}
+ul, ul li {
+  display: block;
+  margin: 0; padding: 0;
+}
+
+a, a:hover, a:focus {
+  color: #0000cc;
+  background: transparent;
+  text-decoration: underline;
+}
+
+a:visited {
+color: #660099;
+  background: transparent;
+  text-decoration: underline;
+  }
+
+a:hover, a:active, a:focus {
+    outline:2px solid #1b75bb;
+}
+
+/*** header ***/
+header {
+  background: #005A9C;
+  color: white;
+  margin: 0;
+}
+header ul {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+header a, header a:visited {
+  border-bottom: 1px solid #005A9C;
+  display: block;
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  padding: 0.5rem;
+}
+header a:hover, header a:focus {
+  background: white;
+  color: black;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+/*** main ***/
+main {
+  display: flex;
+  flex-flow: column;
+  background: white;
+  color: black;
+  line-height: 1.2;
+  margin-left: 1rem;
+  margin-right: 1rem;
+}
+
+main > * {
+  padding-right: 0;
+  padding-left: 0;
+}
+
+main nav {
+  order: 1;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  padding-top: 0.5ex;
+  padding-bottom: 0.5ex;
+  border-top: 2px solid #ccc;
+}
+main nav h3 {
+  padding-bottom: 0.2ex;
+  border-bottom: 3px solid #eee;
+}
+main nav li {
+  font-weight: 500;
+  padding: 0.5ex;
+  border-bottom: 1px solid #ccc;
+}
+
+aside {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  border-top: 2px solid #ddd;
+}
+
+figcaption {
+  text-align: left; font-style: italic; font-size: small;
+}
+#mission {
+  font-style: italic;
+  margin-bottom: 1rem;
+  border-bottom: 1px solid #ccc;
+}
+
+#mission p {
+  margin-left: 1rem;
+  margin-right: 1rem;
+}
+
+article {
+  margin-top: 1rem;
+  border-top: 2px solid #ddd;
+}
+
+article h3 {
+  padding-top: 0.5ex; margin: 0;
+  width: 100%;
+}
+
+/*** footer ***/
+
+footer {
+  background: #005A9C;
+  color: white;
+  margin: 0;
+  padding-right: 0.5rem;
+  padding-left: 0.5rem;
+  padding-top: 0.5rem;
+  padding-bottom: 1rem;
+  text-align: left;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+footer p { margin: 0; padding: 0;}
+footer a, footer a:visited, footer a:focus, footer a:hover {
+  color: white;
+  font-weight: bold;
+}
+
+
+footer a:hover, footer a:focus {
+  background: white;
+  color: black;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+@media screen and (min-width: 78rem) {
+  main {
+    flex-flow: row;
+    justify-content: space-around;
+    align-items: flex-start;
+  }
+  main > * {
+    padding-right: 1rem;
+    padding-left: 1rem;
+  }
+  main nav {
+    order: 0;
+    border-top: none;
+    border-right: 1px solid #ccc;
+  }
+  main nav h3 {
+    text-align: right;
+  }
+  main #content {
+    max-width: 50rem;
+  }
+  aside {
+    max-width: 20em;
+    border-top: none;
+    border-left: 1px solid #ccc;
+  }
+  article {
+    margin-top: 2rem;
+    border-top: 0.5ex solid #ddd;
+  }
+  footer {
+    box-sizing: border-box;
+    width: 100%;
+    margin-top: 1rem;
+    padding-bottom: 2rem;
+  }
+}
