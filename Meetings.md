@@ -5,7 +5,7 @@ This document contains information about Chinese Web IG's upcoming and recent F2
 
 ### 11月17日 杭州
 
-[会议页面]()
+[会议页面](https://github.com/w3c/chinese-ig/blob/master/meetings/2018-11-17.md)
 
 ## Past meetings
 
