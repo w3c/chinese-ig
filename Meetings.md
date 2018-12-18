@@ -4,9 +4,13 @@ This document contains information about Chinese Web IG's upcoming and recent F2
 
 ## Upcoming F2F Meetings
 
+### 媒体任务组研讨会 2019年3月23日 北京
+
+[会议页面](https://github.com/w3c/chinese-ig/blob/master/meetings/2019-03-23.md)
+
 ## Past meetings
 
-### 11月17日 杭州
+### 2018年11月17日 杭州
 
 [会议页面](https://github.com/w3c/chinese-ig/blob/master/meetings/2018-11-17.md)
 
