@@ -181,6 +181,12 @@
 
 保存到本地、全屏预览、获取媒体信息、播放（暂停、倍速、弹幕、跳转到指定位置、后台播放等）
 
+相关规范：
+
+* [Web Audio API](https://www.w3.org/TR/2018/CR-webaudio-20180918/)
+* [Audio Output Devices API](https://www.w3.org/TR/2017/CR-audio-output-20171003/)
+
+
 ### 直播
 
 ### 录音/拍照/录像
