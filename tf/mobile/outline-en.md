@@ -56,7 +56,7 @@ Possible standardization contents:
 Relevant spec:
 * [IndexedDB](https://w3c.github.io/IndexedDB/)
 * [File API](https://www.w3.org/TR/FileAPI/)
-* [Writable Files](https://wicg.github.io/writable-files/)
+* [Native File System API](https://wicg.github.io/native-filesystem/)
 * [Web storage](https://html.spec.whatwg.org/multipage/webstorage.html#the-localstorage-attribute)
 
 ### Configuration
