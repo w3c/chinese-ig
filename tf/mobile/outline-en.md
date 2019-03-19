@@ -25,6 +25,7 @@ Possible standardization contents:
 Relevant spec:
 * [Vibration API](https://www.w3.org/TR/vibration/)
 * [Clipboard API and events](https://www.w3.org/TR/clipboard-apis/)
+* [Screen Capture](https://www.w3.org/TR/2016/WD-screen-capture-20160714/)
 
 ### Media
 
@@ -37,6 +38,7 @@ Possible standardization contents:
 Relevant spec:
 * [Web Audio API](https://www.w3.org/TR/2018/CR-webaudio-20180918/)
 * [Audio Output Devices API](https://www.w3.org/TR/2017/CR-audio-output-20171003/)
+* [MediaStream Recording](https://www.w3.org/TR/2017/WD-mediastream-recording-20170621/)
 
 ### Location
 
