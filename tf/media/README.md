@@ -6,4 +6,4 @@ This task force provides a forum for media-related technical discussions in Chin
 
 ## 技术提案 Technical proposals
 
-* 弹幕 Commentary subtitles
+* [弹幕 Commentary subtitles](https://github.com/w3c/chinese-ig/blob/master/tf/media/commentary-subtitles.md)
