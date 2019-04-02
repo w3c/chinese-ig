@@ -5,3 +5,5 @@
 This task force provides a forum for media-related technical discussions in China.
 
 ## 技术提案 Technical proposals
+
+* 弹幕 Commentary subtitles
