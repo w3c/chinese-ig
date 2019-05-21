@@ -17,9 +17,23 @@ h2, h3, h4, h5, h6 {
 }
 h2 { font-size: 1.3rem;}
 h3 { font-size: 1.1rem;}
-ul, ul li {
+nav ul, nav ul li {
   display: block;
   margin: 0; padding: 0;
+}
+
+.meeting-info {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: start;
+  padding-top: 1rem;
+  padding-left: 1rem;
+  margin: 0;
+}
+
+.meeting-info li {
+  display: block;
+  margin-right: 1rem;
 }
 
 a, a:hover, a:focus {
