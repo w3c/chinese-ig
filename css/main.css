@@ -22,6 +22,20 @@ nav ul, nav ul li {
   margin: 0; padding: 0;
 }
 
+.meeting-info {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: start;
+  padding-top: 1rem;
+  padding-left: 1rem;
+  margin: 0;
+}
+
+.meeting-info li {
+  display: block;
+  margin-right: 1rem;
+}
+
 a, a:hover, a:focus {
   color: #0000cc;
   background: transparent;
