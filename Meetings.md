@@ -1,6 +1,6 @@
 # Chinese Web IG meetings | Web中文兴趣组会议
 
-本文档包含Web中文兴趣组即将召开的和过去的面对面会议的信息。
+本页面包括 Web 中文兴趣组即将召开的和过去的会议信息。
 
 This document contains information about Chinese Web IG's upcoming and past F2F meetings.
 
@@ -10,15 +10,15 @@ This document contains information about Chinese Web IG's upcoming and past F2F 
 
 ### 下一代移动 Web 应用研讨会 2019年3月23日 北京
 
-[会议页面](https://github.com/w3c/chinese-ig/blob/master/meetings/2019-05-11.md)
+[会议页面](https://github.com/w3c/chinese-ig/blob/master/meetings/2019-05-11.md)・[会议纪要](https://www.w3.org/2019/05/11-chinese-web-minutes.html)・[会议总结](https://www.w3.org/2019/05/11-chinese-web-mobile-web-apps-summary.html)
 
 ### 媒体任务组研讨会 2019年3月23日 北京
 
-[会议页面](https://github.com/w3c/chinese-ig/blob/master/meetings/2019-03-23.md)
+[会议页面](https://github.com/w3c/chinese-ig/blob/master/meetings/2019-03-23.md)・[会议纪要](https://www.w3.org/2019/03/23-chinese-web-minutes.html)・[会议总结](https://www.w3.org/2019/03/23-chinese-web-media-summary.html)
 
-### 2018年11月17日 杭州
+### 兴趣组启动会 2018年11月17日 杭州
 
-[会议页面](https://github.com/w3c/chinese-ig/blob/master/meetings/2018-11-17.md)
+[会议页面](https://github.com/w3c/chinese-ig/blob/master/meetings/2018-11-17.md)・[会议纪要](https://www.w3.org/2018/11/17-chinese-web-minutes.html)・[会议总结](https://www.w3.org/2018/11/17-chinese-web-meeting-summary.html)
 
 ## IRC and Meeting Resources
 
