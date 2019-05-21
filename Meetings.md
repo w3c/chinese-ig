@@ -1,14 +1,16 @@
 # Chinese Web IG meetings | Web中文兴趣组会议
 
-This document contains information about Chinese Web IG's upcoming and recent F2F meetings.
+本文档包含Web中文兴趣组即将召开的和过去的面对面会议的信息。
+
+This document contains information about Chinese Web IG's upcoming and past F2F meetings.
 
 ## Upcoming F2F Meetings
+
+## Past meetings
 
 ### 下一代移动 Web 应用研讨会 2019年3月23日 北京
 
 [会议页面](https://github.com/w3c/chinese-ig/blob/master/meetings/2019-05-11.md)
-
-## Past meetings
 
 ### 媒体任务组研讨会 2019年3月23日 北京
 
