@@ -4,6 +4,6 @@
 
 This task force provides a forum for media-related technical discussions in China.
 
-## 技术提案 Technical proposals
+## 用例和技术提案 Use cases and technical proposals
 
-* [弹幕 Commentary subtitles](https://github.com/w3c/chinese-ig/blob/master/tf/media/commentary-subtitles.md)
+* [弹幕用例和技术提案 Danmaku](https://w3c-proposal-incubation.github.io/danmaku-proposal/)
