@@ -1,3 +1,7 @@
+# Web中文兴趣组工作流程
+
+Web中文兴趣组包含多个特别任务组（task force），特别任务组的产出（包括用例、需求、技术提案等）在本 repo 的 [tf/](https://github.com/w3c/chinese-ig/tree/master/tf) 目录下。
+
 # W3C标准化流程
 
 ## 战略漏斗（Strategy Funnel）
