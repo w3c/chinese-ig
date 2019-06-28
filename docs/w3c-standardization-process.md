@@ -2,6 +2,8 @@
 
 Web中文兴趣组包含多个特别任务组（task force），特别任务组的产出（包括用例、需求、技术提案等）在本 repo 的 [tf/](https://github.com/w3c/chinese-ig/tree/master/tf) 目录下。
 
+Issues 中有各特别任务组对应的 label，可用来对 issue 进行分类。提议孵化新的标准讨论，或对现有文档的有任何意见和建议，均可通过 GitHub Issues 提出。
+
 # W3C标准化流程
 
 ## 战略漏斗（Strategy Funnel）
