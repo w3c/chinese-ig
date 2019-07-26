@@ -6,7 +6,7 @@ This task force provides a forum for media-related technical discussions in Chin
 
 ## 用例和技术提案 Use cases and technical proposals
 
-* [弹幕用例和技术提案 Danmaku](https://w3c-proposal-incubation.github.io/danmaku-proposal/)
+* [弹幕用例和技术提案 Danmaku](https://w3c.github.io/danmaku/)
 
 ## Demos
 
