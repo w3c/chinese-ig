@@ -2,6 +2,6 @@
 
 该特别任务组为小程序和快应用相关的技术讨论而设立。
 
-## 用例和技术提案
+## 文档 Documents
 
-TBD
+* [MiniApp Standardization White Paper](https://w3c.github.io/mini-app-white-paper/)
