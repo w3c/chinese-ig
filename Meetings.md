@@ -8,7 +8,11 @@ This document contains information about Chinese Web IG's upcoming and past F2F 
 
 ## Past meetings
 
-### 下一代移动 Web 应用研讨会 2019年3月23日 北京
+### TPAC 2019 面对面会议 2019年9月20日 日本福冈
+
+[议程](https://github.com/w3c/chinese-ig/issues/154)・会议纪要：[中文](https://www.w3.org/2019/09/20-chinese-web-minutes.html)・[英文](https://www.w3.org/2019/09/20-Chinese-Web-en-minutes.html)
+
+### 下一代移动 Web 应用研讨会 2019年5月11日 北京
 
 [会议页面](https://github.com/w3c/chinese-ig/blob/master/meetings/2019-05-11.md)・[会议纪要](https://www.w3.org/2019/05/11-chinese-web-minutes.html)・[会议总结](https://www.w3.org/2019/05/11-chinese-web-mobile-web-apps-summary.html)
 
