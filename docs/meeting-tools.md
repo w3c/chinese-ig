@@ -16,10 +16,6 @@ Zoom 和 Webex 是 W3C 最常用的电话会议工具。
     </ul>
     <h4>如何接入音频</h4>
     <p>加入会议后，可以使用设备语音通过互联网链接音频。</p>
-    <ul>
-      <li>点击会议 URL 加入会议</li>
-      <li>打开 Zoom app，输入会议号和密码加入会议</li>
-    </ul>
 </details>
 
 <details>
