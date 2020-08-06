@@ -6,6 +6,10 @@ This document contains information about Chinese Web IG's upcoming and past F2F 
 
 ## Upcoming F2F Meetings
 
+### WebAssembly 研讨会 2020年8月29日 线上会议
+
+[会议页面](https://github.com/w3c/chinese-ig/blob/master/meetings/2020-08-29.md)
+
 ## Past meetings
 
 ### TPAC 2019 面对面会议 2019年9月20日 日本福冈
