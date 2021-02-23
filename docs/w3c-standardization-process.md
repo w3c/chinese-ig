@@ -1,6 +1,6 @@
 # Web中文兴趣组工作流程
 
-Web中文兴趣组包含多个特别任务组（task force），特别任务组的产出（包括用例、需求、技术提案等）在本 repo 的 [tf/](https://github.com/w3c/chinese-ig/tree/master/tf) 目录下。
+Web中文兴趣组包含多个特别任务组（task force），特别任务组的产出（包括用例、需求、技术提案等）在本 repo 的 [tf/](https://github.com/w3c/chinese-ig/tree/main/tf) 目录下。
 
 Issues 中有各特别任务组对应的 label，可用来对 issue 进行分类。提议孵化新的标准讨论，或对现有文档的有任何意见和建议，均可通过 GitHub Issues 提出。
 
@@ -12,11 +12,11 @@ Issues 中有各特别任务组对应的 label，可用来对 issue 进行分类
 
 漏斗从左到右阅读，分为以下几个阶段：
 
-* [0.Exploration（探索）](https://github.com/w3c/strategy/blob/master/0.Exploration.md)
-* [1.Investigation（研究）](https://github.com/w3c/strategy/blob/master/1.Investigation.md)
-* [2.Incubation（孵化）](https://github.com/w3c/strategy/blob/master/2.Incubation.md)
-* [3.Evaluation（评估）](https://github.com/w3c/strategy/blob/master/3.Evaluation.md)
-* [4.Chartering（章程设立）](https://github.com/w3c/strategy/blob/master/4.Chartering.md)
+* [0.Exploration（探索）](https://github.com/w3c/strategy/blob/main/0.Exploration.md)
+* [1.Investigation（研究）](https://github.com/w3c/strategy/blob/main/1.Investigation.md)
+* [2.Incubation（孵化）](https://github.com/w3c/strategy/blob/main/2.Incubation.md)
+* [3.Evaluation（评估）](https://github.com/w3c/strategy/blob/main/3.Evaluation.md)
+* [4.Chartering（章程设立）](https://github.com/w3c/strategy/blob/main/4.Chartering.md)
 
 # W3C小组介绍
 
