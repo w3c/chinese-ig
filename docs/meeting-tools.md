@@ -49,7 +49,7 @@ Zoom 和 Webex 是 W3C 最常用的电话会议工具。
 
 ### 如何加入 IRC 频道
 
-使用 IRC 最简单的办法是打开 http://irc.w3.org
+使用 IRC 最简单的办法是打开 https://irc.w3.org
 
 输入 Nickname 和 Channel，并点击 Connect，其中：
 
