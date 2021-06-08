@@ -1,6 +1,8 @@
-# 小程序和快应用特别任务组
+# MiniApps 特别任务组
 
-该特别任务组为小程序和快应用相关的技术讨论而设立。
+该特别任务组为 MiniApps 相关的技术讨论而设立。
+
+This task force was established for technical discussions related to MiniApps.
 
 ## 文档 Documents
 
