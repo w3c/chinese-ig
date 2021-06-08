@@ -2,7 +2,7 @@
 
 本页面包括 Web 中文兴趣组即将召开的和过去的会议信息。关于会议中工具的使用，请参考 [W3C 会议工具使用指南](https://github.com/w3c/chinese-ig/blob/main/docs/meeting-tools.md)。
 
-This document contains information about Chinese Web IG's upcoming and past F2F meetings. For more information about the tools used in a meeting, [here](https://github.com/w3c/chinese-ig/blob/main/docs/meeting-tools.md) is a guide in Chinese.
+This document contains information about Chinese Web IG's upcoming and past meetings. For more information about the tools used in a meeting, [here](https://github.com/w3c/chinese-ig/blob/main/docs/meeting-tools.md) is a guide in Chinese.
 
 ## Upcoming meetings
 
