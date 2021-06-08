@@ -4,8 +4,11 @@
 
 This document contains information about Chinese Web IG's upcoming and past F2F meetings. For more information about the tools used in a meeting, [here](https://github.com/w3c/chinese-ig/blob/main/docs/meeting-tools.md) is a guide in Chinese.
 
-## Upcoming F2F Meetings
+## Upcoming meetings
 
+### 沉浸式 Web 线上研讨会 2020年7月24日 线上会议
+
+[会议页面](https://github.com/w3c/chinese-ig/blob/main/meetings/2021-07.md)
 
 ## Past meetings
 
