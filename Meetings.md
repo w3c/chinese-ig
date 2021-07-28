@@ -6,11 +6,11 @@ This document contains information about Chinese Web IG's upcoming and past meet
 
 ## Upcoming meetings
 
-### 沉浸式 Web 线上研讨会 2020年7月24日 线上会议
-
-[会议页面](https://github.com/w3c/chinese-ig/blob/main/meetings/2021-07.md)
-
 ## Past meetings
+
+### 沉浸式 Web 线上研讨会 2021年7月24日 线上会议
+
+[会议页面](https://github.com/w3c/chinese-ig/blob/main/meetings/2021-07.md)・[会议纪要](https://www.w3.org/2021/07/chinese-ig-xr/minutes.html)
 
 ### WebAssembly 研讨会 2020年8月29日 线上会议
 
