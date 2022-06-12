@@ -1,3 +1,20 @@
+/* From https://github.com/w3c/clreq/blob/gh-pages/local.css */
+@font-face {
+  font-family: 'Punctuation SC';
+  src: local('PingFang SC'), local('Noto Sans SC'), local('Noto Sans CJK SC'), local('Heiti SC'), local('Microsoft Yahei');
+  unicode-range: U+201C, U+201D, U+2018, U+2019, U+2E3A, U+2014, U+2013, U+2026, U+00B7, U+007E, U+002F; /* Unicode range for punctuation marks */
+}
+
+@font-face {
+  font-family: 'Punctuation TC';
+  src: local('PingFang TC'), local('Noto Sans TC'), local('Noto Sans CJK TC'), local('Heiti TC'), local('Microsoft JhengHei');
+  unicode-range: U+201C, U+201D, U+2018, U+2019, U+2E3A, U+2014, U+2013, U+2026, U+00B7, U+007E, U+002F; /* Unicode range for punctuation marks */
+}
+
+:lang(zh-hans) {
+  font-family: 'Punctuation SC', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', 'PingFang SC', 'Noto Sans SC', 'Noto Sans CJK SC', 'Heiti SC', 'DengXian', 'Microsoft YaHei', sans-serif;
+}
+
 body {
   margin:0;padding:0;
   background: white;
