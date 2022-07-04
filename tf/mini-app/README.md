@@ -7,4 +7,4 @@ This task force was established for technical discussions related to MiniApps.
 ## 文档 Documents
 
 * [Specs](https://github.com/w3c/miniapp/tree/gh-pages/specs)
-* [MiniApp Standardization White Paper](https://w3c.github.io/mini-app-white-paper/)
+* [MiniApp Standardization White Paper](https://w3c.github.io/miniapp-white-paper/)
