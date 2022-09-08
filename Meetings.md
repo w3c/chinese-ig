@@ -6,6 +6,10 @@ This document contains information about Chinese Web IG's upcoming and past meet
 
 ## Upcoming meetings
 
+### 新一代Web技术标准论坛 2022年9月6日 杭州
+
+[会议页面](https://tpac2022-china-hub.netlify.app/#/chinese-ig)
+
 ## Past meetings
 
 ### 一起谈谈元宇宙与Web标准 2022年4月7日 线上会议
