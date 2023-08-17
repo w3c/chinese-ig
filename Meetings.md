@@ -8,6 +8,10 @@ This document contains information about Chinese Web IG's upcoming and past meet
 
 ## Past meetings
 
+### Web前沿技术论坛 2023年6月19日 北京
+
+[会议页面](https://www.w3.org/2023/06/china-web-forum/index.html)・[会议总结](https://www.w3.org/2023/06/china-web-forum/report.html)
+
 ### 新一代Web技术标准论坛 2022年9月6日 杭州
 
 [会议页面](https://tpac2022-china-hub.vercel.app/#/chinese-ig)・[会议纪要](https://www.w3.org/2022/09/hangzhou/cwig/report.html)
