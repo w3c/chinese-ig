@@ -8,6 +8,10 @@ This document contains information about Chinese Web IG's upcoming and past meet
 
 ## Past meetings
 
+### TPAC 2023面对面会议 2023年9月15日 西班牙塞维利亚
+
+[议程](https://github.com/w3c/chinese-ig/issues/246)・[会议纪要](https://www.w3.org/2023/09/15-chinese-web-minutes.html)
+
 ### Web前沿技术论坛 2023年6月19日 北京
 
 [会议页面](https://www.w3.org/2023/06/china-web-forum/index.html)・[会议总结](https://www.w3.org/2023/06/china-web-forum/report.html)
