@@ -8,7 +8,7 @@ Issues 中有各特别任务组对应的 label，可用来对 issue 进行分类
 
 ## 战略漏斗（Strategy Funnel）
 
-[战略漏斗](https://github.com/w3c/strategy/projects/2)展示了 W3C 战略团队正在考虑的工作。
+[战略漏斗](https://github.com/orgs/w3c/projects/97)展示了 W3C 战略团队正在考虑的工作。
 
 漏斗从左到右阅读，分为以下几个阶段：
 
