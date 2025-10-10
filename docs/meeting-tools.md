@@ -84,7 +84,7 @@ W3C使用叫做“RRSAgent”的机器人来生成会议记录。
 
 ### 邀请机器人加入频道
 
-如果Zakim和RRSAgent不在你的频道，可以通过`/invite Zakim <channel>`和`/invite rrsagent <channel>`邀请机器人进入频道。
+如果Zakim和RRSAgent不在你的频道，可以通过 `/invite Zakim <channel>` 和 `/invite rrsagent <channel>` 邀请机器人进入频道。
 
 ### 会议开始时自动添加议题
 
