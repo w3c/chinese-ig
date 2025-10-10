@@ -8,6 +8,18 @@ This document contains information about Chinese Web IG's upcoming and past meet
 
 ## Past meetings
 
+### WebAI与跨平台Web应用技术研讨会 2025年1月10日 深圳
+
+[议程](https://www.w3.org/2024/01/webevolve-series-events/ai-and-highperf/zh.agenda.html)
+
+### Web进化论2024年度大会 2024年5月28日 上海
+
+[议程](https://www.w3.org/2024/01/webevolve-series-events/media/zh.agenda.html) · [活动总结](https://www.w3.org/2024/01/webevolve-series-events/media/zh.report.html)
+
+### Solid：技术、标准与生态 2024年1月11日 线上会议
+
+[议程](https://www.w3.org/2024/01/webevolve-series-events/solid.html) · [活动回顾](https://www.w3.org/zh-hans/blog/2024/webevolve-solid-technologies-standards-and-ecosystem-event-recap/)
+
 ### TPAC 2023面对面会议 2023年9月15日 西班牙塞维利亚
 
 [议程](https://github.com/w3c/chinese-ig/issues/246)・[会议纪要](https://www.w3.org/2023/09/15-chinese-web-minutes.html)
