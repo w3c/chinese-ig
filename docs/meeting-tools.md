@@ -81,3 +81,10 @@ W3C使用叫做“RRSAgent”的机器人来生成会议记录。
 ### 生成会议记录
 
 可以通过 `RRSAgent, make minutes` 命令来生成会议记录的链接。
+
+## 参考文献
+
+- https://www.w3.org/guide/meetings/irc.html
+- https://www.w3.org/guide/meetings/zakim.html
+- https://www.w3.org/guide/meetings/rrsagent.html
+- https://github.com/w3c/AgendaBot
