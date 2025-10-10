@@ -32,11 +32,11 @@ W3C的许多面对面会议和电话会议都会使用IRC，与会者通常会�
 
 ### 如何加入IRC频道
 
-使用IRC最简单的办法是打开 https://irc.w3.org
+使用IRC最简单的办法是打开 https://webirc.w3.org/
 
-输入Nickname和Channel，并点击Connect，其中：
+输入Nick、Real name和Channels，并点击CONNECT，其中：
 
-* Nickname不能包含空格
+* Nick不能包含空格
 * Channel以 `#` 开头
 * 如果频道需要密码，可以在频道名后加空格并输入密码，比如 `#ac password`
 
