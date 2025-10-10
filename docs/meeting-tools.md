@@ -86,6 +86,16 @@ W3C使用叫做“RRSAgent”的机器人来生成会议记录。
 
 如果Zakim和RRSAgent不在你的频道，可以通过`/invite Zakim <channel>`和`/invite rrsagent <channel>`邀请机器人进入频道。
 
+### 会议开始时自动添加议题
+
+agendabot是一个IRC机器人，它会监听以下格式的行：
+
+```
+agenda: <网址>
+```
+
+并从这个网址中提取会议议程。它会将议程以Zakim能够理解的形式写进IRC频道。
+
 ## 参考文献
 
 - https://www.w3.org/guide/meetings/irc.html
