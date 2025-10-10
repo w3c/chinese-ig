@@ -82,6 +82,10 @@ W3C使用叫做“RRSAgent”的机器人来生成会议记录。
 
 可以通过 `RRSAgent, make minutes` 命令来生成会议记录的链接。
 
+### 邀请机器人加入频道
+
+如果Zakim和RRSAgent不在你的频道，可以通过`/invite Zakim <channel>`和`/invite rrsagent <channel>`邀请机器人进入频道。
+
 ## 参考文献
 
 - https://www.w3.org/guide/meetings/irc.html
